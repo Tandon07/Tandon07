@@ -1,4 +1,4 @@
--  Visit here for more details:https://tandon07.github.io/myportfolio/
+-  Visit here for more details:https://tandon07.github.io/
 - 👋 Hi, I’m @Tandon07
 - 👀 Data excites me
 - 🌱 Experienced Data Scientist and AI/ML/GenAI Specialist
